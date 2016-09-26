@@ -517,6 +517,7 @@ can be better.
    IRC, etc).
 
 :doc:`Proposals/GitHubSubMod`
+:doc:`Proposals/GitHubMove`
    Proposal to move from SVN/Git to GitHub.
 
 
